@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+    max-width: 100%;
+    width: 800px;
+    margin: auto;
+}
+#title{
+    font-size: 35px;
+    color: rgba(88, 84, 84, 0.678);
+    padding: 5px;
+    box-sizing: border-box;
+}
+#addProduct{
+    width: 125px;
+    background-color: aqua;
+    border: none;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 3px rgba(88, 84, 84, 0.678);
+    margin:10px 0;
+}
+header{
+    text-align: center;
+    margin-top: 10px;
+}
+h2{
+
+    font-size: 25px;
+    color: rgba(228, 214, 214, 0.883);
+    
+}
+h3{
+    font-size: 18px;
+    color: rgba(170, 167, 167, 0.842);
+   
+}
+p{
+    font-size: 15px;
+    color: white;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.493);
+    width: 60%;
+    margin: auto;
+    
+    
+}
+#newProduct{
+    width: 90%;
+    margin: auto;
+    padding: 20px 0;
+    box-sizing: border-box;
+}
